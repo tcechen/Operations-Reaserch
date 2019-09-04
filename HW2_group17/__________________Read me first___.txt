@@ -1,0 +1,17 @@
+/***開發平台***/
+	Code::Block專案
+
+/***開啟步驟***/
+	1. 雙擊執行 HW2_group17.cbp 檔
+	2. 點擊"build and run"
+
+
+/***函式說明***/
+	- main.c          : 主程式 
+	- StateGenerate.c : 輸入(Xn-1)的state, 輸出(Xn)的state
+	- CostCounting.c  : 輸入(Xn-1)和(Dn), 輸出第n期的成本
+	- AfterPeriods.c  : 輸入欲模擬之總天數(10000)，印出所有統計結果
+
+
+/***標頭檔***/
+	- Declare.h       : 包含基本標頭檔 & 宣告全域變數    

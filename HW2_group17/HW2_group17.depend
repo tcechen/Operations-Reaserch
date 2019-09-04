@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1553187427 source:c:\users\user\desktop\hw2_group17\main.c
+	"Declare.h"
+
+1553184357 source:c:\users\user\desktop\hw2_group17\stategenerate.c
+	"Declare.h"
+
+1553184081 c:\users\user\desktop\hw2_group17\declare.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553187618 source:c:\users\user\desktop\hw2_group17\afterperiodsof.c
+	"Declare.h"
+
+1553180569 source:c:\users\user\desktop\hw2_group17\costcounting.c
+	"Declare.h"
+
+1553354364 source:c:\users\yun-chu chen\desktop\hw2_group17\afterperiodsof.c
+	"Declare.h"
+
+1553354068 c:\users\yun-chu chen\desktop\hw2_group17\declare.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553354364 source:c:\users\yun-chu chen\desktop\hw2_group17\costcounting.c
+	"Declare.h"
+
+1553354364 source:c:\users\yun-chu chen\desktop\hw2_group17\main.c
+	"Declare.h"
+
+1553354068 source:c:\users\yun-chu chen\desktop\hw2_group17\stategenerate.c
+	"Declare.h"
+
+1553190140 source:c:\users\user\desktop\hw2_group17_newver\hw2_group17_newver\afterperiodsof.c
+	"Declare.h"
+
+1553184081 c:\users\user\desktop\hw2_group17_newver\hw2_group17_newver\declare.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553308250 source:c:\users\user\desktop\hw2_group17_newver\hw2_group17_newver\costcounting.c
+	"Declare.h"
+
+1553189029 source:c:\users\user\desktop\hw2_group17_newver\hw2_group17_newver\main.c
+	"Declare.h"
+
+1553190092 source:c:\users\user\desktop\hw2_group17_newver\hw2_group17_newver\stategenerate.c
+	"Declare.h"
+
+1553354364 source:c:\users\yun-chu chen\desktop\作業研究or2\hw2_group17\afterperiodsof.c
+	"Declare.h"
+
+1553354068 c:\users\yun-chu chen\desktop\作業研究or2\hw2_group17\declare.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1553354364 source:c:\users\yun-chu chen\desktop\作業研究or2\hw2_group17\costcounting.c
+	"Declare.h"
+
+1553354364 source:c:\users\yun-chu chen\desktop\作業研究or2\hw2_group17\main.c
+	"Declare.h"
+
+1553354068 source:c:\users\yun-chu chen\desktop\作業研究or2\hw2_group17\stategenerate.c
+	"Declare.h"
+
